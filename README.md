@@ -25,15 +25,9 @@ The Full totorial is available at
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 </details>
 
 [youtube]: https://youtube.com/https://www.youtube.com/channel/UCB768I3kCr_ESFJud-u-VjQ

@@ -1,6 +1,6 @@
 The Ultimate Guide to make a discord bot
 
-The Full totorial is available at 
+The Full tutorial is available at 
 
 ### Hi there, I'm Vivzi 
 

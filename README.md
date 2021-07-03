@@ -23,12 +23,5 @@ The Full totorial is available at
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCB768I3kCr_ESFJud-u-VjQ)
 
-
-<details>
-</details>
-
-<details>
-</details>
-
 [youtube]: https://youtube.com/https://www.youtube.com/channel/UCB768I3kCr_ESFJud-u-VjQ
 
